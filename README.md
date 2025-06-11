@@ -128,7 +128,7 @@ The project works with the following data entities:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AbhiramK01/Genetic_Algorithm_RCPSP.git
+[git clone https://github.com/AKHIL-514/Genetic_Algorithm_RCPSP.git]
 cd Genetic_Algorithm_RCPSP
 
 # Create and activate virtual environment
